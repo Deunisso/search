@@ -1,0 +1,260 @@
+[
+    {
+    "image": "https://i.ibb.co/7bbgsB2/Limpador-Suporte-da-Base.jpg",
+    "description": "Limpador - Suporte da Base",
+    "code": "EBR022657",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/6J0tPqL/Acoplamento-Flex-vel.jpg",
+    "description": "Acoplamento Flexível",
+    "code": "SXP0126963",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/YkqLhN0/Eixo-do-Rebolo.jpg",
+    "description": "Eixo do Rebolo",
+    "code": "EBR018578",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/mtpybnV/Correia-Elevador.jpg",
+    "description": "Correias - Elevador",
+    "code": "Clique aqui",
+    "category": "Zahoransky",
+    "variations": [
+    { "size": "2840x25", "code": "SXP0148089" },
+    { "size": "2842x25", "code": "EBR03338" },
+    { "size": "2960x25", "code": "EBR022564" },
+    { "size": "7300x25", "code": "EBR021945" }
+    ]
+    },
+    {
+    "image": "https://i.ibb.co/Rg0xYyn/Haste-do-Garfo.jpg",
+    "description": "Haste do Garfo z4t a1544 | Datador",
+    "code": "EBR022718",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/vjwKL6H/Garfo-Posicion-7.jpg",
+    "description": "Garfo Posicion z4t a 1545/7 | Datador",
+    "code": "EBR022717",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/Xb7cZC7/Garfo-Posicion-5.jpg",
+    "description": "Garfo Posicion z4t a 1545/5 | Datador",
+    "code": "EBR022716",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/1QgW7BF/Conjunto-de-Articula-o-da-Lan-adeira.jpg",
+    "description": "Conjunto de Articulação da Lançadeira",
+    "code": "EBR022716",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/n3Ktm8z/Reparo-Cil-Rot-Rob-Inf-Boucherie.jpg",
+    "description": "Reparo Cilindro Rotativo Garra",
+    "code": "Clique aqui",
+    "category": "Zahoransky",
+    "variations": [
+    { "size": "Pinhao", "code": "EBR022711" },
+    { "size": "Cremalheira", "code": "EBR022712" }
+    ]
+    },
+    {
+    "image": "https://i.ibb.co/2dQvKMb/Cilindro-1-Est-gio-Tufadeira-WY1-C-25-500.jpg",
+    "description": "Cilindro 1° Estágio Tufadeira WY1C 25-500",
+    "code": "EBR018579",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/87Wt0L3/Cilindro-Rob-Boucherie-Batedor-Zahorasnky.jpg",
+    "description": "Cilindro Robô Boucherie Batedor Zahorasnky - CQ2B12-10DM",
+    "code": "EBR014997",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/j4LTyn1/Cilindro-Limpador-de-Escovas-Zahoransky.jpg",
+    "description": "Cilindro Limpador de Escovas Zahoransky CDQ2B32-40DZ",
+    "code": "EBR014997",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/4V4KXkg/Cilndro-Limpador-de-Escovas-Zahoransky-CQSKB50-50-D.jpg",
+    "description": "Cilndro Limpador de Escovas Zahoransky CQSKB50-50D",
+    "code": "N/A",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/0mXPD9p/Cilindro-Elevador-de-Cabos-Zahoransky-DSNU-8-25-PA.jpg",
+    "description": "Cilindro Elevador de Cabos Zahoransky DSNU-8-25 PA",
+    "code": "EBR012379",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/SdxwtXM/Cilindro-Girat-rio-Rob-Tuf-18-MSUB7-180-S.jpg",
+    "description": "Cilindro Giratório Robô Tuf 18 MSUB7-180S",
+    "code": "EBR022046",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/vhtVq2Q/Cilindro-Abertura-da-Garra-Zahoransky-CQ2-B-20-10-D.jpg",
+    "description": "Cilindro Abertura da Garra Zahoransky CQ2B 20-10 D",
+    "code": "EBR012431",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/0Q70TF0/Cilindro-Trava-do-Tambor.jpg",
+    "description": "Cilindro Trava do Tambor CYLINDER: SMC - CQ 2B - 12 - 10M",
+    "code": "Clique aqui",
+    "category": "Zahoransky",
+    "variations": [
+    { "size": "1", "code": "EBR014997" },
+    { "size": "2", "code": "EBR014998" }
+    ]
+    },
+    {
+    "image": "https://i.ibb.co/x15vHmy/Clindro-Limpador-de-Escovas-Zahoransky.jpg",
+    "description": "Clindro Cremalheira Tambor 11/12 CQ2B 32-10",
+    "code": "EBR013786",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/MGF4vCL/Rolamento-Eixo-de-Cames.jpg",
+    "description": "Rolamento Eixo de Cames Zahoransky 3206A-2RS1TN9/MT33",
+    "code": "EBR021458",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/1vHhTYt/Rolamento-Garra.jpg",
+    "description": "Rolamento Garra KB 8",
+    "code": "EBR009956",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/YW6Cjk2/Rolamento-Cames.jpg",
+    "description": "Rolamento Cames Zahoransky LR5200-x-2z-tvh-xl",
+    "code": "EBR013225",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/TmMkRjK/Rolamento-Vai-Vem.jpg",
+    "description": "Rolamento Vai-Vem Fresa Zahoransky 16-26-36",
+    "code": "EBR019809",
+    "category": "Zahoransky"
+    },
+    {
+    "image": "https://i.ibb.co/wW81RzR/Rolamento-Castanha-da-Fresa.jpg",
+    "description": "Rolamento Castanha da Fresa",
+    "code": "EBR022602",
+    "category": "Zahoransky"
+    },
+
+    {
+        "image": "https://i.ibb.co/ymCGZgn/Eixo-Articula-o-Robo-Inferior.jpg",
+        "description": "Eixo Articulação Robo Inferior",
+        "code": "EBR018760",
+        "category": "Boucherie"
+    },
+    {
+        "image": "https://i.ibb.co/wR7dsH3/Mola-Danly-Tambor-Boucherie.jpg",
+        "description": "Mola Danly Tambor Boucherie",
+        "code": "EBR018778",
+        "category": "Boucherie"
+    },
+    {
+        "image": "https://i.ibb.co/c1PdzRV/Correia-Interna-Rebolos-Boucherie.jpg",
+        "description": "Correia Interna Rebolos Boucherie",
+        "code": "EBR023299",
+        "category": "Boucherie"
+    },
+    {
+        "image": "https://i.ibb.co/GpTD9GR/NA.jpg",
+        "description": "NA",
+        "code": "EBR018508",
+        "category": "Boucherie"
+    },
+    {
+        "image": "https://i.ibb.co/ft1t80d/Valvula-VMPA1.jpg",
+        "description": "Válvula VMPA1-M1H-M-PI",
+        "code": "Clique aqui",
+        "category": "Boucherie",
+        "variations": [
+            { "size": "E", "code": "EBR022969" },
+            { "size": "G", "code": "EBR021649" },
+            { "size": "J", "code": "EBR022970" },
+            { "size": "K", "code": "EBR022331" },
+            { "size": "M", "code": "EBR022332" }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/n3Ktm8z/Reparo-Cil-Rot-Rob-Inf-Boucherie.jpg",
+        "description": "Reparo Cil.Rot. Robô Inf. Boucherie",
+        "code": "Clique aqui",
+        "category": "Boucherie",
+        "variations": [
+            { "size": "Rolamento 6003 2rs", "code": "EBR009546" },
+            { "size": "Gaxeta U30 24,3 X 37 X 7,9", "code": "EBR018176" },
+            { "size": "Oring 30,5 x 3,5", "code": "EBR000817" }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/vV0DmNd/Gaxeta-da-Garra-Rob-Boucherie.jpg",
+        "description": "Gaxeta da Garra Robô Boucherie",
+        "code": "Clique aqui",
+        "category": "Boucherie",
+        "variations": [
+            { "size": "Superior", "code": "EBR018340" },
+            { "size": "Inferior", "code": "EBR022726" }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/M5hMfh0/Base-Datador.jpg",
+        "description": "Base Datador",
+        "code": "EBR022715",
+        "category": "Boucherie"
+    },
+    {
+        "image": "https://i.ibb.co/ChtmM2z/Rolete-Rebolo.jpg",
+        "description": "Rolete Rebolo",
+        "code": "EBR023361",
+        "category": "Boucherie"
+    },
+    {
+        "image": "https://i.ibb.co/rwp0zCx/Suporte-Articula-o-Rob-Superior.jpg",
+        "description": "Suporte Articulação Robô Superior",
+        "code": "EBR018716",
+        "category": "Boucherie"
+    },
+    {
+        "image": "https://i.ibb.co/HNB5svZ/Faca-Corte-do-Tarugo.jpg",
+        "description": "Faca Corte do Tarugo",
+        "code": "SXP0128814",
+        "category": "Boucherie"
+    },
+    {
+        "image": "https://i.ibb.co/8YSYvw8/Amortecedor-Tombo-Tuf-22-YSRW.jpg",
+        "description": "Amortecedor Tombo Tuf 22 YSRW 12-20",
+        "code": "EBR020037",
+        "category": "Boucherie"
+    },
+    {
+        "image": "https://i.ibb.co/M2tmMRS/Rolamento-Guia-Rob-Inferior-Boucherie.jpg",
+        "description": "Rolamento Guia Robô Inferior Boucherie 618/5",
+        "code": "Clique aqui",
+        "category": "Boucherie",
+        "variations": [
+            { "size": "S/blindagem", "code": "EBR022700" },
+            { "size": "ZZ", "code": "EBR015232" },
+            { "size": "695 h zz ezo", "code": "EBR019808" }
+        ]
+    },
+    {
+        "image": "https://i.ibb.co/9t3wTTd/Rolamento-Articula-o-da-Roda-Bra-o-Bico-1201-ATN9.jpg",
+        "description": "Rolamento Articulação da Roda Braço Bico 1201 ATN9",
+        "code": "EBR020349",
+        "category": "Boucherie"
+    }
+]
